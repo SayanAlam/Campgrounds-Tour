@@ -1,6 +1,5 @@
 # Campgrounds-Tour
-[Click here to visit Site](https://agrirenthub.onrender.com/)  <br>
-Welcome to AgriRentHub! This platform allows users to showcase agricultural implements and equipment for rent, as well as provide reviews for listings created by others. The project focuses on connecting farmers and individuals who have agricultural equipment available for rent with those seeking such equipment.
+Welcome to Campgrounds-Tour. A web-based application that allows users to take a virtual tour of different campgrounds. Each campground listing includes photos, descriptions, and additional information about the facilities and nearby attractions.
 
 ## Table of Contents
 
@@ -8,37 +7,34 @@ Welcome to AgriRentHub! This platform allows users to showcase agricultural impl
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Site Video](#Video)
 
 ## Project Overview
 
-AgriRentHub is a web-based platform designed to streamline the process of connecting agricultural equipment owners with renters. It enables users to create listings for their equipment, find suitable equipment for rent, and engage in a community-driven rental experience. The integrated Mapbox map aids users in locating listings and planning visits.
+The Campground Tour project is a web-based application designed to provide users with an immersive virtual tour of various campgrounds. Whether users are avid campers looking for new destinations or curious individuals who want to explore the outdoors from the comfort of their homes, Campground Tour offers an engaging experience that showcases the beauty and amenities of different campsites.
 
 ## Features
 
-AgriRentHub provides a user-friendly platform for both agricultural equipment owners and renters to connect and collaborate. Follow these steps to make the most out of the platform:
+Campground-Tour provides a user-friendly platform for providing review to campgrounds and explore the campgrounds. Follow these steps to make the most out of the platform:
 
-1. *Sign Up / Log In*: If you're a new user, sign up for an AgriRentHub account. If you're an existing user, simply log in to your account..
+1. *Sign Up / Log In*: If you're a new user, sign up for an Campgrounds-Tour account. If you're an existing user, simply log in to your account.
 
-2. *Create a Listing*: If you have agricultural equipment available for rent, you can create a new listing. Provide detailed information about the equipment, including specifications, pricing, and rental terms. Upload images to showcase the equipment's condition.
+2. *Create a Listing*: If you have already explore a campground, you can create a new listing. Provide detailed information about the area, including location, and rental terms. Upload images of the campground.
 
-3. *Browse Listings*: To find equipment for rent, browse the existing listings. 
+3. *Browse Listings*: To explore campgrounds, browse the existing listings. 
 
-4. *View Listings on Map*: Utilize the integrated Mapbox map to view the locations of specific listings. This feature helps you plan visits to inspect the equipment before renting.
+4. *View Listings on Map*: Utilize the integrated Mapbox map to view the locations of listings ground. This feature helps you to know proper location of the ground.
 
-6. *Provide Reviews*: After you've rented and used the equipment, take a moment to provide a review and rating. Your feedback will help other users make informed decisions.
+6. *Provide Reviews*: After you've visited the location, take a moment to provide a review and rating. Your feedback will help other users to make decisions.
 
-7. *Manage Your Listings*: As an equipment owner, you can manage your listings by editing or deleting them as needed. Keep your listings up to date to ensure accurate information for potential renters.
+7. *Manage Your Listings*: As a user or woner, you can manage your listings by editing or deleting them as needed. Keep your listings up to date to ensure accurate information for others.
 
-8. *Profile Management*: Edit your profile to keep your information current. Your profile showcases your listed equipment, rental history, and reviews received.
+9. *Secure and Reliable*: Campgrounds-Tour ensures secure authentication and data protection to provide a safe environment for users to engage in the rental process.
 
-9. *Secure and Reliable*: AgriRentHub ensures secure authentication and data protection to provide a safe environment for users to engage in the rental process.
-
-By following these steps, you can seamlessly navigate AgriRentHub and enjoy the benefits of connecting with fellow farmers and individuals in the agricultural community.
+By following these steps, you can navigate Campground Tour and enjoy the benefits of connecting with fellow campers and individuals passionate about outdoor exploration and camping.
 
 ## Requirements
 
-To run and understand AgriRentHub, you will need the following:
+To run and understand Campgrounds-Tour, you will need the following:
 
 - Node.js
 - Express
@@ -51,7 +47,7 @@ To run and understand AgriRentHub, you will need the following:
 
 ## Installation
 
-Follow these steps to get AgriRentHub up and running:
+Follow these steps to get Campgrounds-Tour up and running:
 
 1. Clone the repository and navigate to the project directory:
    $ git clone https://github.com/mohitrana0311/AgriRentHub.git

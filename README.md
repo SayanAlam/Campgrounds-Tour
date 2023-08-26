@@ -50,6 +50,7 @@ To run and understand Campgrounds-Tour, you will need the following:
 Follow these steps to get Campgrounds-Tour up and running:
 
 1. Clone the repository and navigate to the project directory:
+   
    $ git clone https://github.com/SayanAlam/Campgrounds-Tour.git
 
 2. Add the following variables to your .env file, replacing the placeholders with actual values: <br>

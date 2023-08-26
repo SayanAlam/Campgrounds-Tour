@@ -26,9 +26,9 @@ Campground-Tour provides a user-friendly platform for providing review to campgr
 
 6. *Provide Reviews*: After you've visited the location, take a moment to provide a review and rating. Your feedback will help other users to make decisions.
 
-7. *Manage Your Listings*: As a user or woner, you can manage your listings by editing or deleting them as needed. Keep your listings up to date to ensure accurate information for others.
+7. *Manage Your Listings*: As a user or owner, you can manage your listings by editing or deleting them as needed. Keep your listings up to date to ensure accurate information for others.
 
-9. *Secure and Reliable*: Campgrounds-Tour ensures secure authentication and data protection to provide a safe environment for users to engage in the rental process.
+8. *Secure and Reliable*: Campgrounds-Tour ensures secure authentication and data protection to provide a safe environment for users to engage in the rental process.
 
 By following these steps, you can navigate Campground Tour and enjoy the benefits of connecting with fellow campers and individuals passionate about outdoor exploration and camping.
 
@@ -43,6 +43,7 @@ To run and understand Campgrounds-Tour, you will need the following:
 - Cloudinary account (for image hosting)
 - EJS (Embedded JavaScript) templating engine
 - HTML/CSS
+- Bootstrap
 - JavaScript
 
 ## Installation
